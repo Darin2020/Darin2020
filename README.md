@@ -3,4 +3,4 @@ Urodziłem się na Ukrainie, gdzie pracowałem jako ładowacz, kierowca, przedsi
 W Polsce Mieszkam od pięciu lat. Ostatnie trzy z nich jeżdżę po Krakowie śmieciarką...
 Kiedyś powiedziałem przyjacielowi, że chciałbym tworzyć coś, co może być przydatne dla innych, coś, co ułatwi ludziom życie. Przyjaciel poradził mi, żebym uczył C#. Co robie przez ostatni rok.
 Wyniki mojego szkolenia można znaleźć w moich repozytoriach.
-Jeśli mamy coś do współpracy, proszę pisać na volodymyr.malysh@gmai.com.
+Jeśli mamy coś do współpracy, proszę pisać na volodymyr.malysh@gmail.com.
